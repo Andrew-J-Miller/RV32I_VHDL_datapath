@@ -1,6 +1,6 @@
 # RV32I_VHDL_datapath
 This is a VHDL implementation of a RISC V 32I processor datapath. 
-Current iteration is a 5 stage pipeline, with register forwarding and branch prediction (assume not taken).
+Current iteration is a 5 stage pipeline with register forwarding and branch prediction (assume not taken).
 
 
 This project is currently a WIP.
