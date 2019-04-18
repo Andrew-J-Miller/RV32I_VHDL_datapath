@@ -1,7 +1,7 @@
 --ALUcontrol.vhd
 --Generated at Fri Jul 27 10:22:38 2018
 --Andrew Miller 7/27/18
---ALUcontrol.vhd is a vhdl implementation of an ALU control unit for a RISC V processor
+--ALUcontrol.vhd is a vhdl implementation of an ALU control unit for a MIPS processor
 
 library IEEE;
 use IEEE.std_logic_1164.all;
